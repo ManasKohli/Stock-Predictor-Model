@@ -18,8 +18,3 @@ A machine learning model that predicts stock market trends using the **Random Fo
 
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 04b4538 (updated s&p data)
-
